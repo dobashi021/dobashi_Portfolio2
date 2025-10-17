@@ -9,4 +9,7 @@
 ---
 
 [→ さらにプロジェクトを見る](projects/genai-poc.md)
+
+---
+
 [← トップへ戻る](../index.md) 
