@@ -20,5 +20,7 @@ DevOps基盤（GitLab／Artifactory）の運用・保守
 - テスト設計、障害管理、リーダー経験あり  
 - iOSテストリーダーとして品質改善に貢献 
 
----
-[← トップへ戻る](../index.md)
+<p align="center">
+  <a href="index.md">🏠 トップへ戻る</a> |
+  <a href="vision.md">🌈 ビジョンを見る</a>
+</p>

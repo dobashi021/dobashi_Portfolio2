@@ -13,6 +13,7 @@
 - AI出力の品質評価（自動レビュー）機能の追加  
 - MLOps／AI品質検証への拡張  
 
----
-
-[← トップへ戻る](../index.md)
+<p align="center">
+  <a href="../index.md">🏠 トップへ</a> |
+  <a href="vba-tool.md">⬅ 前のプロジェクト</a>
+</p>

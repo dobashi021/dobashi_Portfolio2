@@ -35,4 +35,4 @@ QA --> DevOps["DevOps運用"]
 
 ---
 
-[← トップへ戻る](../index.md)
+<p align="center"> <a href="index.md">🏠 トップへ戻る</a> | <a href="career.md">📜 経歴を見る</a> </p>

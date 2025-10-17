@@ -8,8 +8,7 @@
 
 ---
 
-[→ さらにプロジェクトを見る](projects/genai-poc.md)
-
----
-
-[← トップへ戻る](../index.md) 
+<p align="center">
+  <a href="../index.md">🏠 トップへ</a> |
+  <a href="genai-poc.md">次のプロジェクト ➡</a>
+</p>

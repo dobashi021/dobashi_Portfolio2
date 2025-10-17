@@ -12,5 +12,7 @@ AIモデルの品質検証やMLOps運用にも挑戦し、
 - 「再現困難な不具合をAIで再現できる未来」を実現する
 
 ---
-
-[← トップへ戻る](../index.md)
+<p align="center">
+  <a href="index.md">🏠 トップへ戻る</a> |
+  <a href="career.md">📜 経歴へ戻る</a>
+</p>
