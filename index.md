@@ -20,4 +20,8 @@
 
 ---
 
+[→ キャリアを見る](../career.md)
 [→ プロジェクトを見る](projects/vba-tool.md)
+[→ スキルを見る](../skills.md)
+[→ ビジョンを見る](../vision.md)
+
